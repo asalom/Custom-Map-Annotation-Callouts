@@ -2,6 +2,7 @@
 
 I reworked the project to make it run on iOS 4+.
 It works with iOS 6.
+Correct callout bubble style with iOS7.
 
 I changed the project structure, because it was a bit messy and add a namespace to the lib.
 
